@@ -1,0 +1,7 @@
+__pycache__/
+.pytest_cache/
+build/
+spark-warehouse/
+.terraform/
+*.tfstate*
+.terraform.lock.hcl
